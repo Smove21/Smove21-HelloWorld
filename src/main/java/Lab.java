@@ -15,6 +15,6 @@ public class Lab {
      * @return "Hello, world!"
      */
     public String sayHello(){
-        return "Hello World My Name Is Jesse Dunac And I Will Take Over The World!!!!!";
+        return "Hello, world!";
     }
 }
